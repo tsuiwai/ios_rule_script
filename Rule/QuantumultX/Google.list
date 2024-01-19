@@ -330,6 +330,7 @@ HOST-SUFFIX,google.com,Google
 HOST-SUFFIX,google.com.af,Google
 HOST-SUFFIX,google.com.ag,Google
 HOST-SUFFIX,google.com.ai,Google
+HOST-KEYWORD,googleusercontent,Google
 HOST-KEYWORD,googleapis,Google
 HOST-KEYWORD,g-tun,Google
 HOST-SUFFIX,google.com.ar,Google
@@ -726,7 +727,7 @@ HOST-SUFFIX,xplr.co,Google
 HOST-SUFFIX,zukunftswerkstatt.de,Google
 HOST-SUFFIX,zynamics.com,Google
 HOST-SUFFIX,googledrive.com,Google
-HOST-SUFFIX,googleusercontent.com,Google
+HOST-SUFFIX,.com,Google
 HOST-KEYWORD,appspot,Google
 HOST-KEYWORD,blogspot,Google
 HOST-KEYWORD,gmail,Google
